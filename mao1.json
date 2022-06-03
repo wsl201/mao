@@ -1,7 +1,7 @@
 {
     //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt"
-    //"spider": "https://gitee.com/wangsl201/tv/raw/master/jar/custom_spider2.jar"
-    "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/mao1_spider.jar"
+    //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/mao1_spider.jar"
+    "spider": "https://wsl201.github.io/mao/mao1/mao1_spider.jar"
     
   "sites": [
     {"key": "csp_AppYsV2_看365","name": "看365(alist)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.kan365.xyz/api.php/app/"},
