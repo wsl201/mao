@@ -150,7 +150,7 @@
     
     {"key": "量子资源","name": "量子资源(lz)","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","动作片","爱情片","科幻片","国产动漫","日本动漫","欧美剧","恐怖片","剧情片","战争片","喜剧片","犯罪片","韩国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","海外动漫","泰国剧","日本剧","纪录片","其他剧"]},
     
-    {"key": "乐多采集","name": "乐多采集","type": 0,"api": "https://cj.leduocaiji.com/inc/api.php","playUrl": "https://api.xxctzy.com/1.php?vid=","categories": ["国产剧","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港剧","日剧","欧美剧","台剧","韩剧","其他动漫","体育赛事","海外剧","纪录片","国产动漫","日本动漫","欧美动漫","动画电影","篮球","足球","网球"]},
+    //{"key": "乐多采集","name": "乐多采集","type": 0,"api": "https://cj.leduocaiji.com/inc/api.php","playUrl": "https://api.xxctzy.com/1.php?vid=","categories": ["国产剧","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港剧","日剧","欧美剧","台剧","韩剧","其他动漫","体育赛事","海外剧","纪录片","国产动漫","日本动漫","欧美动漫","动画电影","篮球","足球","网球"]},
     
     //{"key":"人人迷","name":"人人迷2","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/from/renrenmi/?ac=list","playUrl": "https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":1,"filterable":0},
     //{"key":"人人迷","name":"人人迷3","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/from/renrenmi/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"playUrl": "https://languangyingshiziyuan.1080zy.top/rrmi.php/?url=","ext": "https://gitee.com/wangsl201/tv/raw/master/json/rrm.json"},
