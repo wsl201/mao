@@ -71,6 +71,9 @@
     {"key": "csp_xpath_pianba","name": "片吧(xpath)(优酷资源)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/pianba.json"},
 
     //app
+        
+    {"key": "csp_AppYsV2_MX","name": "MX影视(xb)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},    
+        
     {"key":"csp_appysv2_益达影院","name":"益达影院(ziqie)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
         
     {"key": "csp_appysv2_789pan","name": "789pan","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
