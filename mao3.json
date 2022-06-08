@@ -11,9 +11,8 @@
     
     {"key": "在线之家","name": "在线之家(SP)国外","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Newfii","name": "奈落影院(SP)","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key": "小宝影院","name": "小宝影院(SP)","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+
     //xpath类
-    //{"key":"csp_xpath_tegou","name":"特狗影视(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/tegou.json"},
     {"key":"csp_xpath_renren","name":"人人(xpath)(线路4,3)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/renren.json"},
     {"key":"csp_xpath_Libvio","name":"Libvio(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/libvio.json"},
     {"key":"csp_xpath_ddg","name":"达达龟(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/dadagui.json"},
@@ -94,6 +93,13 @@
     
     //{"key":"csp_xpath_jpjl","name":"极品极链(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/jpzl.json"},
     {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/lranc.json"},
+    {"key":"csp_xpath_kanqiu","name":"久久(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/99kp.json"},
+    {"key":"csp_xpath_gongren","name":"工人(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/gongren.json"},
+    {"key":"csp_xpath_wanmeikk","name":"完美看看(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/wmkk.json"},
+    {"key":"csp_xpath_heidong","name":"黑洞(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/heidong.json"},
+    {"key":"csp_xpath_zxdy8","name":"在线电影吧(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/zxdy8.json"},
+    {"key":"csp_xpath_aidi","name":"爱迪(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/aidi.json"},
+
     {"key": "Age动漫","name": "Age动漫(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/agefans.json"},
        
     {"key":"csp_xpath_动漫巴士","name":"动漫巴士(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/dm84.json"},
@@ -102,6 +108,7 @@
     
     {"key": "csp_xpath_huya","name": "虎牙直播(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/huya.json"},
     {"key":"csp_xpath_kanqiu","name":"看球吧(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/kanqiu.json"},
+    
     //biubiu自定义类
     {"key": "csp_biubiu_ysgc","name": "影视工厂(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/ysgc.json"},
        
