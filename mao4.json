@@ -71,7 +71,14 @@
     {"key":"csp_xpath_wanmeikk","name":"完美看看(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/wmkk.json"},
     {"key":"csp_xpath_heidong","name":"黑洞(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/heidong.json"},
     {"key":"csp_xpath_zxdy8","name":"在线电影吧(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/zxdy8.json"},
-      //appysv2源
+    {"key": "Age动漫","name": "Age动漫(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/agefans.json"},
+       
+    {"key":"csp_xpath_动漫巴士","name":"动漫巴士(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/dm84.json"},
+    
+    {"key": "csp_yinghua","name": "樱花动漫(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/yinghua.json"},
+    {"key":"csp_xpath_kanqiu","name":"看球吧(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/kanqiu.json"},
+ 
+	    //appysv2源
     {"key":"csp_appys_看365","name":"看365(alist)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
     {"key":"csp_appysv2_看看","name":"看看吧(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://888.ccboke.top/ruifenglb_api.php/v1.vod"},
     {"key":"csp_AppYsV2_MX","name":"MX影视(laodi)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
