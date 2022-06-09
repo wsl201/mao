@@ -32,7 +32,8 @@
 	    //appysv2源
     {"key":"csp_appys_看365","name":"看365(alist)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
     {"key":"csp_appysv2_看看","name":"看看吧(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://888.ccboke.top/ruifenglb_api.php/v1.vod"},
-     {"key":"csp_AppYsV2_MX","name":"MX影视(laodi)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
+    {"key":"csp_appysv2_独播社","name":"独播社(ziqie)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
+	{"key":"csp_AppYsV2_MX","name":"MX影视(laodi)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
      {"key":"csp_appysv2_1080kk","name":"1080P(sgyun)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
     {"key":"csp_appysv2_益达影院","name":"益达影院(ziqie)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
     {"key":"csp_appysv2_段友2影视","name":"段友影视2(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
