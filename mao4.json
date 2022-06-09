@@ -95,7 +95,7 @@
     {"key":"csp_appysv2_爱酷影视","name":"爱酷影视(xueren)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
     {"key":"csp_appysv2_段友2影视","name":"段友2影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
     //m3u8视频源
-{"key": "快播资源","name": "快播资源(kb)","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/?ac=list","searchable": 1,
+{"key": "快播资源","name": "快播资源(kb)","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,
 "quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
     
     {"key": "U酷资源","name": "U酷资源(uk)","playUrl": "https://api.ukubf.com/m3u8/?url=","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港澳剧","台湾剧","日剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
