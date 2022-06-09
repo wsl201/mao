@@ -13,3 +13,5 @@ https://wsl201.github.io/mao/mao4.json
 https://wsl201.github.io/mao/mao4/mao4-2.json
 
 https://wsl201.github.io/mao/mao5.json
+
+https://wsl201.github.io/mao/mao1/text.json
