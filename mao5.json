@@ -1,4 +1,64 @@
+    "sites": [  
+      //SP类视频源
+    {"key":"csp_77","name":"酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_AliPanSou","name":"阿里盘搜(SP)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+	     //xpath视频源
+    {"key":"csp_xpath_libv","name":"Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/libvio.json"},
+    {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMF)倒序","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/lezhutv.json"},
+    {"key":"csp_xpath_ikan","name":"爱看(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/ikan.json"},
+    {"key":"csp_xpath_kanqiu","name":"久久(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/99kp.json"},
+    {"key": "csp_xpath_6d","name": "六度TV(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/6dtv.json"},
+    {"key":"csp_xpath_renren","name":"人人(xpath)(线路4,3)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/renren.json"},
+    {"key":"csp_xpath_aidi","name":"爱迪(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/aidi.json"},
+    {"key": "csp_xpath_xiaoqiang_ajk","name": "小强迷(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/xiaoqiang.json"},
+	{"key":"csp_xpath_unss","name":"九洲影视(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/9zhou.json"},
+	    {"key":"csp_xpath_huya","name":"虎牙直播(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/huya.json"},
+     {"key":"csp_xpath_kanqiu","name":"看球吧(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/kanqiu.json"},
+ 	//biubiu自定义类
+    {"key": "csp_biubiu_ysgc","name": "影视工厂(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/ysgc.json"},
+       
+    {"key": "csp_biubiu_555","name": "555电影(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/555.json"},
     
+    {"key": "csp_biubiu_buka","name": "真不卡(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/xb-buka.json"},
+    {"key": "csp_biubiu_tegou","name": "特狗影视(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/tegou.json"},
+    
+    {"key": "csp_biubiu_xkys","name": "星空影视(xbiu)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu/xkys.json"},
+ 
+	    //appysv2源
+    {"key":"csp_appys_看365","name":"看365(alist)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
+    {"key":"csp_appysv2_看看","name":"看看吧(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://888.ccboke.top/ruifenglb_api.php/v1.vod"},
+     {"key":"csp_AppYsV2_MX","name":"MX影视(laodi)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
+     {"key":"csp_appysv2_1080kk","name":"1080P(sgyun)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
+    {"key":"csp_appysv2_益达影院","name":"益达影院(ziqie)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+    {"key":"csp_appysv2_段友2影视","name":"段友影视2(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
+    {"key": "csp_appysv2_789pan","name": "789pan","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
+    {"api":"csp_AppYsV2","ext":"https://app.netflixmi.com/api.php/v1.vod","key":"csp_优质_奈非迷","filterable":1,"name":"奈非迷","type":3},
+
+	    //m3u8
+
+    {"key": "U酷资源","name": "U酷资源(uk)","playUrl": "https://api.ukubf.com/m3u8/?url=","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港澳剧","台湾剧","日剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
+    
+    {"key": "新浪资源","name": "新浪资源(xl)","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","纪录片"]},
+    
+    {"key": "百度云资源","name": "百度云(db)","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","台湾剧","日剧","韩剧","纪录片","犯罪片","欧美剧","其他剧","泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","悬疑片","体育赛事"]},
+	    
+    {"key": "快播资源","name": "快播资源(kb)","type": 1,"api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
+	    
+    {"key": "红牛资源","name": "红牛资源(hn)","type": 1,"playUrl": "https://www.tutukiki.com/m3u8/?url=","api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","纪录片"]},
+     
+    {"key": "光速资源","name": "光速资源(gs)","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","综艺","香澳剧","动作片","爱情片","科幻片","欧美剧","恐怖片","剧情片","战争片","喜剧片","韩剧","台湾剧","泰剧","日剧","纪录片"]},
+    
+    {"key": "橘猫影院","name": "橘猫影院(ck)","type": 1,"api": "http://www.zitv.cc/api.php/provide/vod/from/ckm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","动画片","香港剧","动作片","爱情片","科幻片","欧美剧","恐怖片","剧情片","战争片","喜剧片","犯罪片","韩国剧","台湾剧","泰国剧","日本剧","纪录片","海外剧"]},
+    
+    {"key": "淘片资源","name": "淘片资源(tp)","type": 0,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml/m3u8","searchable": 1,"quickSearch": 1,"filterable": 1},
+    
+    {"key": "量子资源","name": "量子资源(lz)","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","动作片","爱情片","科幻片","国产动漫","日本动漫","欧美剧","恐怖片","剧情片","战争片","喜剧片","犯罪片","韩国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","海外动漫","泰国剧","日本剧","纪录片","其他剧"]},
+
     {
       "key": "push_agent",
       "name": "推送",
