@@ -8,12 +8,9 @@
     {"key":"csp_appysv2_DC影视","name":"DC影视(ziqie)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
     
     {"key": "csp_Buka","name": "真不卡SP(qqpic)","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/buka.json"},
-    //{"key":"csp_Buka","name":"真不卡SP(qqpic)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1},
    
     {"key": "csp_Cokemv","name": "Cokemv(SP)","type": 1,"api": "http://pandown.pro/maoys/cokemv.php","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key": "csp_Cokemv","name": "Cokemv2(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key": "Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Auete.json"},
-   //{"key": "淘剧鸭","name": "淘剧鸭(秒播)","type": 1,"api": "https://so2.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable":  1,"categories": ["国产剧","电影","动漫","综艺","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","动画电影","大陆综艺","国产动漫"]},
    
     {"key": "csp_Kmys","name": "酷猫(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
     
@@ -248,8 +245,7 @@
     {"name":"手动7","type":0,"url":"https://jx.mayiyun.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","pptv","letv","sohu"]}},
     {"name":"手动8","type":0,"url":"https://jx.renrenmi.cc/?url=","ext":{"flag":["renrenmi","人人迷"]}},
     {"name":"自动9","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","pptv","letv","sohu"]}},
-    //{"name" : "真不卡qqpic", "type" : 0, "url" : "http://good-vip.mmiyue.com/zhenbuka2/player/index.php?video_id="},
-    //{"name" : "真不卡2qqpic", "type" : 1, "url" : "http://good-vip.mmiyue.com/zhenbuka2/player/index.php?video_id="},
+
 {"name" : "默认", "url" : "https://api.jhdyw.vip/?url="},
 {"name" : "80tv", "url" : "https://1.api.80tvs.cn/?url="},
 {"name" : "2A资源", "url" : "https://www.2ajx.com/vip.php?url="},
