@@ -177,7 +177,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=tvfix&type=list"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yOTc3MzE3MS9kaXlwLy0vcmF3L3R2L2RpeXAudHh0"
           ]
         }
       ]
