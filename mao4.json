@@ -18,8 +18,7 @@
     {"key":"csp_xpath_qcys","name":"奇粹影视(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/ikuwoo.json"},
     {"key":"六度","name":"六度TV(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/6dtv.json"},
     {"key":"csp_xpath_unss","name":"九洲影视(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/9zhou.json"},
-    //和六度一样
-	    {"key":"csp_xpath_chen","name":"尘落(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/chenluo.json"},
+    //和六度一样{"key":"csp_xpath_chen","name":"尘落(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/chenluo.json"},
     {"key":"csp_xpath_hmtv","name":"花猫TV(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/huamao.json"},
     {"key":"csp_xpath_hhys","name":"火火影视TV(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/huohuo.json"},
     
