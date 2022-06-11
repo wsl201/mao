@@ -17,7 +17,7 @@
     {"key": "csp_MjxqApp","name": "美剧星球(SP)","type": 3,"api": "csp_MjxqApp","searchable": 1,"quickSearch": 1,"filterable": 1},
    //xapth
    
-    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
+    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
     {"key":"csp_xpath_renren","name":"人人(xpath)(线路4,3)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/renren.json"},
     
     {"key":"csp_xpath_Libvio","name":"Libvio(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/libvio.json"},
