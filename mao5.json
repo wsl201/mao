@@ -9,7 +9,7 @@
     {"key":"csp_AliPanSou","name":"阿里盘搜(SP)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 	     //xpath视频源
-    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
+    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
 
     {"key":"csp_xpath_libv","name":"Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/libvio.json"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMF)倒序","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/lezhutv.json"},
