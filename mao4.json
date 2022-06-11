@@ -11,7 +11,7 @@
     {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     //xpath视频源
-    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
+    {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
 
     {"key":"csp_xpath_qiyou","name":"奇优电影(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/qiyou.json"},
     {"key":"csp_xpath_cokemv","name":"Cokemv(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/cokemv.json"},
