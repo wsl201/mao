@@ -26,7 +26,7 @@
     
     
      {"key":"csp_xpath_netf","name":"奈飞(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/netflix.json"},
-    {"key":"csp_xpath_libv","name":"Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/libvio.json"},
+    {"key":"csp_xpath_libv","name":"Libvio(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/libvio.json"},
     {"key":"csp_xpath_saohuo","name":"骚火(XP)倒序","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/saohuo.json"},
     {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMF)倒序","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/lezhutv.json"},
     {"key":"csp_xpath_ddg","name":"达达龟(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/dadagui.json"},
