@@ -3,10 +3,12 @@
     {"key": "七七","name": "酷云77(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
     
     {"key": "Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-    
+    {"key": "Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Cokemv","name": "Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
     
+	{"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "360","name": "360(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/360.json"},
     
     {"key": "在线之家","name": "在线之家(SP)国外","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
