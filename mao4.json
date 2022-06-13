@@ -96,6 +96,10 @@
     {"key":"csp_appys_v1_美剧范","name":"美剧范(m)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key":"csp_appysv2_爱酷影视","name":"爱酷影视(xueren)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
     {"key":"csp_appysv2_段友2影视","name":"段友2影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
+{"key":"csp_appysv2_创意影视","name":"创意影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.30dian.cn/api.php/v1.vod"}, 
+	    
+{"key":"csp_appysv2_300看世界","name":"300看世界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
+	    
     //m3u8视频源
     
     {"key": "U酷资源","name": "U酷资源(uk)","playUrl": "https://api.ukubf.com/m3u8/?url=","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港澳剧","台湾剧","日剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片"]},
@@ -127,7 +131,11 @@
     {"key": "神速资源","name": "神速资源(ss)","type": 1,"playUrl": "https://player.sszyplayer.com/dplayer/?url=","api": "https://api.sszyapi.com/api.php/provide/vod/from/ssm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","动漫片","香港剧","动作片","爱情片","科幻片","国产动漫","日本动漫","欧美剧","恐怖片","剧情片","战争片","喜剧片","犯罪片","韩国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","海外动漫","泰国剧","日本剧","纪录片","其他剧"]},
  
     {"key": "卧龙资源","name": "卧龙资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","动作片","爱情片","科幻片","国产动漫","日本动漫","欧美剧","恐怖片","剧情片","战争片","喜剧片","犯罪片","韩国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","海外动漫","泰国剧","日本剧","纪录片","其他剧"]},
+	    
+	    {"key":"诺讯资源","name":"诺讯官解","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://www.nxflv.com/?url="},
     
+{"key":"江北采集","name":"江北采集","type":0,"searchable":1,"quickSearch":1,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/","playUrl":""},
+	    
     {
       "key": "push_agent",
       "name": "推送",
