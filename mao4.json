@@ -1,4 +1,7 @@
 {
+  //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/22064-xbiu-mao4-sprider.jar",
+  "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xm.jar",
+	
     "sites": [  
       //SP类视频源
     {"key":"csp_77","name":"酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -6,9 +9,29 @@
     //{"key": "csp_Cokemv","name": "Cokemv(SP)","type": 1,"api": "http://pandown.pro/maoys/cokemv.php","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "Csp_Buka","name": "真不卡(SP)","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AliPanSou","name":"阿里盘搜(SP)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ColaCat_CZSPP","name":"🚬厂长资源","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"موارد مدير المصنع"},
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ColaCat_NaNa","name":"👒七七","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"سبعة وسبعة"},
+{"key":"csp_Kunyu77","name":"🐼七七2","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_ColaCat_Kumao","name":"🐱酷猫","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"قط رائع"},
+{"key":"csp_ColaCat_Buka","name":"🧼真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"حقا ليس عالقا"},
+{"key":"csp_ColaCat_Auete","name":"🧿Auete","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"أويتي"},
+{"key":"csp_ColaCat_DiDuan","name":"🌀低端影视","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"السينما والتلفزيون الرديئة"},
+{"key":"csp_ColaCat_360","name":"🎾360","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"ثلاثة مائة وستون"},
+{"key":"csp_ColaCat_AliPanSou","name":"🐱喵狸盘搜（仅支持搜索）","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"مواء الراكون"},
+{"key":"csp_ColaCat_GitCafe","name":"🦊小纸条","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"ملاحظة"},
+//{"key":"csp_GitCafe2","name":"🐼小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_ColaCat_Concert","name":"🎤演唱会","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"حفلة موسيقية"},
+{"key":"csp_ColaCat_Animal","name":"🐘动物世界","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":1,"ext":"عالم الحيوان"},
+{"key":"csp_ColaCat_Opera","name":"🏮戏曲","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"أوبرا"},
+{"key":"csp_ColaCat_FakeWindow","name":"🪟假窗·氛围·白噪声","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"نافذة كاذبة"},
+{"key":"csp_ColaCat_Live","name":"📺设置直播为首页","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"تعيين البث المباشر كصفحة رئيسية"},
+{"key":"csp_ColaCat_push_agent","name":"🍭推送","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"علي"},
     //{"key":"csp_Fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     //xpath视频源
     {"key": "csp_xpath_555","name": "555电影(XPath)搜","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xpath/555.json"},
@@ -832,7 +855,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/mao4_spider.jar"
-  "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/22064-xbiu-mao4-sprider.jar"
+  ]
 }
