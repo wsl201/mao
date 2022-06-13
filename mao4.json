@@ -1,16 +1,16 @@
 {
-  //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/22064-xbiu-mao4-sprider.jar",
-  "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xm.jar",
+  "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/22064-xbiu-mao4-sprider.jar",
+  //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv4/xm.jar",
 	
     "sites": [  
       //SP类视频源
     {"key":"csp_77","name":"酷云77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     //{"key": "csp_Cokemv","name": "Cokemv(SP)","type": 1,"api": "http://pandown.pro/maoys/cokemv.php","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-    //{"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Zxzj","name":"在线之家(SP)国外","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ColaCat_CZSPP","name":"厂长资源(Cola)","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"موارد مدير المصنع"},
 //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_ColaCat_NaNa","name":"👒七七(Cola)","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":1,"ext":"سبعة وسبعة"},
