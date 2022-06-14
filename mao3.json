@@ -1,4 +1,6 @@
 {
+	"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu_mao3_spider.jar",
+	
   "sites": [
     {"key": "七七","name": "酷云77(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
     
@@ -925,8 +927,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  //"spider": "https://gitee.com/wangsl201/tv/raw/master/maotv3/custom_spider3.jar"
-  //"spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu_mao_spider.jar"
-  "spider": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xbiu_mao3_spider.jar"
+  ]
 }
