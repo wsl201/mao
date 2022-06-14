@@ -3,7 +3,7 @@
     {"key": "七七","name": "酷云77(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
     
     {"key": "Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+
     {"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Cokemv","name": "Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "LiteApple","name": "小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
