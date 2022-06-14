@@ -52,6 +52,20 @@
     {"key":"csp_appysv2_段友2影视","name":"段友影视2(CL4K)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
     {"key": "csp_appysv2_789pan","name": "789pan","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
     {"api":"csp_AppYsV2","ext":"https://app.netflixmi.com/api.php/v1.vod","key":"csp_优质_奈非迷","filterable":1,"name":"奈非迷","type":3},
+	{"key": "Age动漫","name": "Age动漫(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv3/xpath/agefans.json"},
+       
+    {"key":"csp_xpath_动漫巴士","name":"动漫巴士(xpath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/dm84.json"},
+    
+    {"key": "csp_yinghua","name": "樱花动漫(xpath)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qq_29773171/mao/-/raw/tv/maotv1/xpath/yinghua.json"},
+        
+      {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
+  
+  {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+  
+  {"key":"csp_appysv2_蜗牛动漫","name":"蜗牛动漫(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
+        {"key":"csp_AppYsV2_美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+  
+  {"key":"csp_appysv2_美剧范","name":"美剧范(普)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 
 	    //m3u8
 
