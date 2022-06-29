@@ -15,6 +15,8 @@
      
     {"key": "光速资源","name": "光速资源(gs)","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["大陆剧","动漫","综艺","香澳剧","动作片","爱情片","科幻片","欧美剧","恐怖片","剧情片","战争片","喜剧片","韩剧","台湾剧","泰剧","日剧","纪录片"]},
 
+    {"key": "多多资源","name": "多多资源","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","动漫","综艺","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","泰剧","纪录片]},
+	  
     {"key": "北斗星","name": "北斗星(bdx)","type": 1,"api": "https://api.bdxapi.com/api.php/provide/vod/from/bdxm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","台湾剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","美国剧","战争片","犯罪片","动漫片","剧情片","韩国剧","日本剧","海外剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","海外动漫","奇幻片","泰国剧","灾难片"]},
     
     {"key": "淘片资源","name": "淘片资源(tp)","type": 0,"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml/m3u8","searchable": 1,"quickSearch": 1,"filterable": 1},
